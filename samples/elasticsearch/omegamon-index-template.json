@@ -3,7 +3,7 @@
   "template": {
     "settings": {
       "lifecycle": {
-        "name": "omegamon-ilm-policy"
+        "name": "omegamon-ds-ilm-policy"
       }
     },
     "data_stream": { },
