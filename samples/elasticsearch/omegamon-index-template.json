@@ -6,7 +6,6 @@
         "name": "omegamon-ds-ilm-policy"
       }
     },
-    "data_stream": { },
     "mappings": {
       "dynamic_templates": [ {
         "strings": {
@@ -17,5 +16,6 @@
         }
       } ]
     }
-  }
+  } ,
+  "data_stream": { }
 }
