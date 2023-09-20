@@ -2,6 +2,7 @@
   "index_patterns": ["omegamon-*"],
   "template": {
     "settings": {
+      "number_of_replicas": 0,
       "lifecycle": {
         "name": "omegamon-ds-ilm-policy"
       }
