@@ -1,5 +1,6 @@
 server.host: "0.0.0.0"
 elasticsearch.hosts: ["http://elasticsearch:9200"]
 
-kibana.autocompleteTimeout: 5000
-kibana.autocompleteTerminateAfter: 10000000
+data.autocomplete.valueSuggestions.timeout: 5000
+data.autocomplete.valueSuggestions.terminateAfter: 10000000
+
